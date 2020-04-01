@@ -1,1 +1,5 @@
-<h1>Hello!</h1>
+<script>
+	import HelloWorld from '../components/HelloWorld.svelte'
+</script>
+
+<HelloWorld  />
